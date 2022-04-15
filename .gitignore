@@ -1,0 +1,6 @@
+Makefile
+build/
+debug/
+dist/
+main.c
+nbproject/
