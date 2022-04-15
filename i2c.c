@@ -1,5 +1,5 @@
 /*
- * File:   i2cc.c
+ * File:   i2c.c
  * Author: me
  *
  * Created on April 15, 2022, 1:16 PM
